@@ -7,8 +7,8 @@
 
 include 'NamePrintableInterface.php';
 include 'AgePrintableInterface.php';
-include 'Whisky.php';
 include 'Book.php';
+include 'Whisky.php';
 include 'Person.php';
 
 main1(new Book('詳解!Drupal入門'));
